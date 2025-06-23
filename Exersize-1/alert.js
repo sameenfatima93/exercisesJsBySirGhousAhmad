@@ -15,3 +15,5 @@
 //-----------------------------------------------
 //task_5
 // console.log("hello i can run js trough my web browser's console");
+ 
+                    //======<*><*>----chapter_1 excersize Done----<*><*>=======//
